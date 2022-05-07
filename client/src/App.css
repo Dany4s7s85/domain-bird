@@ -1,0 +1,14 @@
+.myClass {
+  display: flex;
+  justify-content: center;
+}
+
+.myCursor{
+  cursor: pointer;
+}
+
+.pageColor{
+  background: #E5E5E5;
+}
+
+

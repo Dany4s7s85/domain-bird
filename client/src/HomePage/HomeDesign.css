@@ -1,0 +1,28 @@
+.LandingHead{
+/* position: absolute; */
+width: 100%;
+height: 895px;
+left: 0px;
+top: 0px;
+
+background:green;
+}
+
+.navLine{
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    left: 0px;
+    top: 58px;   
+    background: #FFFFFF;
+    opacity: 0.4;
+}
+
+.myCenter {
+    display: flex;
+    justify-content: center;
+  }
+
+.ImageBootom{
+bottom: 200px;
+}

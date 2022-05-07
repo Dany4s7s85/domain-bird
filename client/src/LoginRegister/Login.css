@@ -1,0 +1,190 @@
+/* design for login page */
+.domainLogo{
+  position: absolute;
+  width: 291px;
+  height: 141px;
+  left: 0px;
+  top: 0px;
+  background:transparent
+  }
+  
+.loginHeading{
+  position: absolute;
+  width: 231px;
+  height: 75px;
+  left: 175px;
+  top: 294px;
+  color: #000000;
+  }
+
+.loginSubheading {
+position: absolute;
+width: 396px;
+height: 53px;
+left: 30px;
+top: 374px;
+color: #000000;
+}
+
+.pTagDesign{
+position: absolute;
+width: 308px;
+height: 24px;
+left: 182px;
+top: 480px;
+color: #000000;
+}
+
+.p2TagDesign{
+  position: absolute;
+  width: 308px;
+  height: 24px;
+  left: 110px;
+  top: 510px;
+  color: #000000;
+}
+
+.formPage{
+  position: absolute;
+  width: 369px;
+  height: 500px;
+  left: 892px;
+  top: 174px;
+}
+
+.inputField{
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  
+  background: #DAFDDF;
+  border-radius: 8px;
+}
+
+.inputField::placeholder{
+  position: absolute;
+left: 7.05%;
+right: 42.01%;
+top: 32.26%;
+bottom: 30.65%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #88DE95;
+}
+
+.loginImage{
+position: absolute;
+left: 30%;
+right: 0%;
+top: 40%;
+bottom: 16.91%;
+}
+
+.imageCenter{
+    
+    width: 60%;
+    margin: auto;
+    display: block;
+      
+}
+
+.loginButton{
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+left: 42.82%;
+right: 45.53%;
+top: 30.51%;
+bottom: 28.81%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+background: #47CA5A;
+box-shadow: 0px 4px 61px rgba(11, 152, 66, 0.4);
+border-radius: 9px;
+}
+
+.darkGreen{
+  color: darkgreen;
+  font-size: bold;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+/* Design for Register page start there */
+.registerForm{
+  position: absolute;
+  width: 369px;
+  height: 700px;
+  left: 892px;
+  top: 174px;
+}
+
+.pRegister{
+position: absolute;
+width: 308px;
+height: 24px;
+left: 176px;
+top: 480px;
+color: #000000;
+}
+
+.p2Register{
+position: absolute;
+width: 308px;
+height: 24px;
+left: 48px;
+top: 510px;
+color: #000000;
+}
+
+.registerHeading{
+position: absolute;
+width: 231px;
+height: 75px;
+left: 175px;
+top: 294px;
+color: #000000;
+}
+
+.registerSubheading {
+position: absolute;
+width: 396px;
+height: 53px;
+left: -15px;
+top: 374px;
+color: #000000;
+}
+
+.navLogin{
+position: absolute;
+width: 40px;
+height: 17px;
+left: 1271px;
+top: 8px;
+}
+
+.navRegister{
+position: absolute;
+width: 81px;
+height: 36px;
+left: 1329px;
+top: 0px;
+}

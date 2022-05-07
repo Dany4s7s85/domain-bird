@@ -1,0 +1,27 @@
+header{
+    padding: 1.5em;
+    display: flex; 
+}
+
+.Nav{
+    padding: 2px;
+    flex-grow: 1;
+}
+.navList{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    margin-left: 1em;
+    gap: 2em;
+}
+
+.navList li:nth-of-type(6){
+    margin-left: auto;
+}
+
+.navList li:nth-of-type(1){
+    margin-left: auto;
+}
+
+

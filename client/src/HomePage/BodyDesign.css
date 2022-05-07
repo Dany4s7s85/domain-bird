@@ -1,0 +1,27 @@
+.BodyList{
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.CardDesign{
+    height: 150px;
+    width: 358px;
+    float: left;
+    margin: 18px;
+    text-align: center;
+}
+
+.CardDesign img {
+    width: 50px;
+    align-self: center;
+    margin-top: 30px;
+}
+
+.CardDesign:hover{
+    border: 1px solid blue;
+}
+
+.cardLink{
+text-decoration: none;
+color: black;
+}
